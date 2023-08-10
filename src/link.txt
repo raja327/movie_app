@@ -1,0 +1,23 @@
+api key=8b1f0b2c86fdcfe9608eb3a75c908ef0
+
+now playing link
+https://api.themoviedb.org/3/movie/now_playing?api_key=8b1f0b2c86fdcfe9608eb3a75c908ef0
+
+popular movie
+
+https://api.themoviedb.org/3/movie/popular?api_key=8b1f0b2c86fdcfe9608eb3a75c908ef0
+
+top rated movie
+https://api.themoviedb.org/3/movie/top_rated?api_key=8b1f0b2c86fdcfe9608eb3a75c908ef0
+
+upcoming movie
+
+https://api.themoviedb.org/3/movie/upcoming?api_key=8b1f0b2c86fdcfe9608eb3a75c908ef0
+
+movie details
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=8b1f0b2c86fdcfe9608eb3a75c908ef0
+
+search movie
+
+https://api.themoviedb.org/3/search/movie?api_key=8b1f0b2c86fdcfe9608eb3a75c908ef0
+&query=barbie
