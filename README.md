@@ -23,3 +23,6 @@ This movie_app is TMDB api based react projects  where you can see see multi pag
  **  SCREENSHOT OF PROJECT**
    ![image](https://github.com/raja327/movie_app/assets/57476735/a71bd253-a377-4db9-8b69-f691b660ac68)
     ![image](https://github.com/raja327/movie_app/assets/57476735/df42ca25-e802-48e9-a463-0ab04d21a4f5)
+
+**vercel link**
+https://movie-app-h8wm.vercel.app/
